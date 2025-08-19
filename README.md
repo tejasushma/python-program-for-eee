@@ -1,2 +1,2 @@
 # python-program-for-eee
-btech III year solar panel power output simulation
+BTech III year solar panel power output simulation
